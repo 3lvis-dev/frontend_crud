@@ -1,0 +1,27 @@
+:root {
+  --header-footer-color: linear-gradient(135deg,#020381 0%,#2874fc 100%);
+  --background: #020381; 
+  --card-color: linear-gradient(150deg, #0049de 32%, #FC00FF 100%);
+  --font-color: white;
+  --btn-create: #006611;
+  --btn-view: #0dcaf0;
+  --btn-edit: #ffc107;
+  --btn-del: #dc3545;
+}
+
+/* < ================ RESET STYLES ================ > */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+/* < ================ RESET STYLES END ================ > */

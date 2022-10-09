@@ -1,0 +1,35 @@
+.container__watch {
+  background-color: var(--background);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  gap: 2rem;
+}
+
+.container__watch__title {
+  font-size: 3rem;
+  color: var(--font-color);
+}
+
+.card__hobbie {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+hr {
+  color: var(--btn-view);
+}
+
+.card__hobbie__info {
+  text-align: center;
+  padding: .5rem;
+  padding-top: 1rem;
+  font-size: 1.9rem;
+  color: var(--btn-view);
+  /* color: var( --btn-edit); */
+  /* color: var( --btn-del); */
+  /* color: var( --font-color); */
+}
+

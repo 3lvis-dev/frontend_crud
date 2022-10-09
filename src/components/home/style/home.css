@@ -1,0 +1,25 @@
+.conteiner {
+  background-color: var(--background);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 2rem;
+  padding-bottom: 3rem;
+  gap: 2rem;
+}
+
+.card {
+  background: var(--card-color);
+  padding: 3rem;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 400px;
+  width: 70%;
+  font-size: 1.6rem;  
+  transition: transform 200ms ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: transform 200ms ease;
+}
