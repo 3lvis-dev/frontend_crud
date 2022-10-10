@@ -9,7 +9,7 @@ const Header = () => {
 
         <div className='header__img'>
           <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-            <img src="/src/assets/react.svg" alt="img logo react" />
+            <img src="/img/react.svg" alt="img logo react" />
           </a>
         </div>
 
