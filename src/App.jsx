@@ -24,8 +24,9 @@ function App() {
 
   // CREATE Method
   const createNewPerson = (data) => {
-    const URL = 'http://127.0.0.1:8000/api/personas/'
-  
+    // const URL = 'http://127.0.0.1:8000/api/personas/'
+    const URL = 'https://backend-crud.onrender.com/api/personas/'
+
     axios.post(URL, data)
       .then(res => {
         console.log(res.data)

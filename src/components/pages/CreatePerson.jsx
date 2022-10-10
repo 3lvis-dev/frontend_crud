@@ -29,7 +29,9 @@ const CreatePerson = ({createNewPerson, updatePerson, setUpdatePerson}) => {
   const submit = (data) => {
     if (updatePerson) {
       //Update
-      const URL = `http://127.0.0.1:8000/api/personas/${updatePerson.id}`
+      // const URL = `http://127.0.0.1:8000/api/personas/${updatePerson.id}`
+      const URL = `https://backend-crud.onrender.com/api/personas/${updatePerson.id}`
+
       axios.put(URL, data)
         .then(res => {
           console.log(res.data)

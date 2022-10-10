@@ -20,7 +20,9 @@ const Personas = ({person, setUpdatePerson, setWatchPerson}) => {
 
   // DELETE Method
   const deletePersonById = (id) => {
-    const URL = `http://127.0.0.1:8000/api/personas/${person.id}`
+    // const URL = `http://127.0.0.1:8000/api/personas/${person.id}`
+    const URL = `https://backend-crud.onrender.com/api/personas/${person.id}`
+
 
     axios.delete(URL)
       .then(res => {
