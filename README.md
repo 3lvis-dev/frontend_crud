@@ -2,6 +2,8 @@
 
 ### CRUD ReactJS and Django
 
+[LINK APP](https://frontend-crud-elvis.netlify.app/)
+
 - FrontEnd
   - React 
   - react-router 
@@ -13,10 +15,9 @@
 - BBDD
   - PostgreSQL
 
+[LINK BackEnd](https://backend-crud.onrender.com/api/personas/)
 
 ------------
-## Instructivo
-
 
 # Full Stack Developer and WebMaster WordPress:
 ------------
