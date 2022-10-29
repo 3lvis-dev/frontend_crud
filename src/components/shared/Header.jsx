@@ -17,7 +17,7 @@ const Header = () => {
           <Link to='/' >
             <p>Home</p>
           </Link>
-          <p>Enersinc CRUD</p>
+          <p>Users CRUD</p>
         </div>
 
         <div className='header__img'>
