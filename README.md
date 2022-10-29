@@ -2,15 +2,15 @@
 
 [LINK APP](https://frontend-crud-elvis.netlify.app/)
 
-- FrontEnd
+- **FrontEnd**
   - React 
   - react-router 
   - redux thung 
   - axios 
   - react-form
-- BackEnd
+- **BackEnd**
   - Django
-- BBDD
+- **BBDD**
   - PostgreSQL
 
 [LINK BackEnd](https://backend-crud.onrender.com/api/personas/)
