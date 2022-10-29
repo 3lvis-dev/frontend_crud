@@ -19,7 +19,7 @@
 ## Instructivo
 
 
-# Developer:
+# Full Stack Developer(ReactJS | Django) and WebMaster WordPress:
 ------------
 
 | Name | GitHub  | LinkedIn |
